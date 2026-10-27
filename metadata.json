@@ -1,0 +1,6 @@
+{
+  "name": "FreshTrack - Expiry-Aware Kitchen Inventory",
+  "description": "Smart expiry-aware kitchen inventory app tailored for Indian households. Scan receipts or barcodes, auto-estimate shelf life, discover Indian recipes for expiring items, and track household food waste savings in ₹.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
